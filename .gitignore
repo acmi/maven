@@ -1,0 +1,8 @@
+# IDEA
+.idea/
+*.iml
+
+# MAVEN
+target/
+effective-pom.xml
+dependency-reduced-pom.xml
